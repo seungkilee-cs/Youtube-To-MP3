@@ -8,3 +8,11 @@
 4. Get True bitrate of the MP3
 5. Show download status of individual file
 6. Auto fill Meta data
+
+## Tasks
+1. Mock ups
+    - Home Screen (Paste in the link)
+    - Downloading Screen (Disable action while downloading/processing. Show Progress)
+2. Youtube Downloader
+3. Video to Audio converter
+4. UI for Download Progress
